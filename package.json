@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/elvinyung/nope/issues"
   },
-  "homepage": "https://github.com/elvinyung/nope#readme"
+  "homepage": "https://github.com/elvinyung/nope#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "node-libs-browser": "^0.5.2",
+    "webpack": "^1.10.1"
+  }
 }
