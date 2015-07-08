@@ -1,0 +1,23 @@
+{
+  "name": "nope",
+  "version": "1.0.0",
+  "description": "Returns \"node\" or \"nope\" depending if you're running this script with Node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/elvinyung/nope.git"
+  },
+  "keywords": [
+    "node",
+    "nope"
+  ],
+  "author": "Elvin Yung <elvinyung1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elvinyung/nope/issues"
+  },
+  "homepage": "https://github.com/elvinyung/nope#readme"
+}
